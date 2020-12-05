@@ -6,9 +6,9 @@
 破解校园网络实现一个账号通过路由器共享网络
 
 		注意：路由器特指装有openwrt或潘多拉的路由器。  
-		拦截原理： 
-		https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md\<br>  
-		非必须步骤：	
+	拦截原理： 
+	https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md\<br>  
+	非必须步骤：	
 		如果是没有刷过机的路由器，请参考网上的相关资料刷机
 		先刷不死：
 		请将所有文件下载，解压到同一文件夹中
