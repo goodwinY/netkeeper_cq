@@ -124,7 +124,7 @@
 			成功：进入3
 		3.使用 多播关键操作
 	这就是为什么不推荐使用这种方案多播的原因
-参考：https://www.bilibili.com/read/cv7913375/
+[本文参考](https://www.bilibili.com/read/cv7913375/)
 
 点点右上角star支持一下呗！！！
 
@@ -133,4 +133,3 @@
 	学校使用无感知。 
 	做到什么地步？ 
 	叠加到自闭。达到水桶效应、 网号上限 、多播上限
-	[我的博客](http://blog.csdn.net/guodongxiaren) 
