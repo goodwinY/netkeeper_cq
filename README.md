@@ -6,14 +6,12 @@
 破解校园网络实现一个账号通过路由器共享网络
 
 		注意：路由器特指装有openwrt或潘多拉的路由器。  
-	拦截原理： 
-		https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md  
+	[拦截原理](https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md) 		  
 	非必须步骤：	
 		如果是没有刷过机的路由器，请参考网上的相关资料刷机
 	先刷不死：
 		请将所有文件下载，解压到同一文件夹中
-	刷机参考：
-		https://www.right.com.cn/forum/thread-3157298-1-1.html
+	[刷Breed参考](https://www.right.com.cn/forum/thread-3157298-1-1.html)		
 	注意1：K2_V22.6.529.XXX K2P_V10.3.XX.XX版本是无法刷入的。会提示连接telnet失败
 		再刷解压出来文件中的对应固件。
 	注意2：不死刷入成功后。按以下操作刷固件：
