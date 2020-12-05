@@ -6,7 +6,7 @@
 > * 高校 校园网 重庆 创翼 netkeeper PPPOE拦截
 > * 本文所展示的操作适用于所有的openwrt和PandoraBox，拦截netkeeper真实网号后，再用路由器进行拨号
 > * 非本文所使用的固件请自行下载对应ipk	
-> * [破解原理](https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md) 
+> * [点击查看破解原理](https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md) 
 
 `注意：路由器特指装有openwrt或潘多拉的路由器。`		  
 ### 零 非必须步骤：	
