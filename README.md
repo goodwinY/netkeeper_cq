@@ -1,14 +1,17 @@
 # netkeeper for k2 k2p or other openwrt 
 高校 校园网 重庆 创翼 netkeeper PPPOE拦截
 破解校园网络实现一个账号通过路由器共享网络
-	注意：路由器特指装有openwrt的路由器。
-	拦截原理：https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md
-
-	请将所有文件下载，解压到同一文件夹中
-	
+	注意：路由器特指装有openwrt或潘多拉的路由器。
+	拦截原理：
+	https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md
 	非必须步骤：
+	
 		如果是没有刷过机的路由器，请参考网上的相关资料刷机
 		先刷不死：
+		
+
+		请将所有文件下载，解压到同一文件夹中
+		
 		https://www.right.com.cn/forum/thread-3157298-1-1.html
 		注意1：K2_V22.6.529.XXX K2P_V10.3.XX.XX版本是无法刷入的。会提示连接telnet失败
 		再刷解压出来文件中的对应固件。
@@ -17,7 +20,7 @@
 		2.长按复位键并插入电源，大约15秒
 		3.在浏览器地址栏输入 192.168.1.1进入刷机界面
 		4.选择刷入对应固件，布局：公版，立即更新
-		5.自动重启，此时这个路由器就是一个正常的OPENWRT路由器
+		5.自动重启，此时这个路由器就是一个正常的OPENWRT或潘多拉路由器
 	一开始WAN口不要插网线
 	初始设置路由器：
 		1.地址栏输入：192.168.1.1进入路由器管理界面，默认密码admin root password 其中一个
@@ -120,7 +123,7 @@
 			成功：进入3
 		3.使用 多播关键操作
 	这就是为什么不推荐使用这种方案多播的原因
-	参考：https://www.bilibili.com/read/cv7913375/
+参考：https://www.bilibili.com/read/cv7913375/
 点点star支持一下呗！！！
 有机会写写最简单的网页认证破解：
 	要求：一号两机 也就是一手机 一电脑
