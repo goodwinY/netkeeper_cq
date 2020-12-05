@@ -1,0 +1,8 @@
+src/gz 19.02_core https://downloads.pangubox.com:63443/pandorabox/19.02/targets/ralink/mt7621/packages
+src/gz 19.02_base https://downloads.pangubox.com:63443/pandorabox/19.02/packages/mipsel_1004kc_dsp/base
+src/gz 19.02_lafite https://downloads.pangubox.com:63443/pandorabox/19.02/packages/mipsel_1004kc_dsp/lafite
+src/gz 19.02_luci https://downloads.pangubox.com:63443/pandorabox/19.02/packages/mipsel_1004kc_dsp/luci
+src/gz 19.02_mtkdrv https://downloads.pangubox.com:63443/pandorabox/19.02/packages/mipsel_1004kc_dsp/mtkdrv
+src/gz 19.02_newifi https://downloads.pangubox.com:63443/pandorabox/19.02/packages/mipsel_1004kc_dsp/newifi
+src/gz 19.02_packages https://downloads.pangubox.com:63443/pandorabox/19.02/packages/mipsel_1004kc_dsp/packages
+src/gz 19.02_pear https://downloads.pangubox.com:63443/pandorabox/19.02/packages/mipsel_1004kc_dsp/pear
