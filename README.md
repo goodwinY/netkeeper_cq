@@ -4,6 +4,7 @@
 ------
 > * 破解校园网络实现一个账号通过路由器共享网络
 > * 高校 校园网 重庆 创翼 netkeeper PPPOE拦截
+> * 已测试支持版本NetKeeper_pppoe_5.2.22.5226
 > * 本文所展示的操作适用于所有的openwrt和PandoraBox，拦截netkeeper真实网号后，再用路由器进行拨号
 > * 非本文所使用的固件请自行下载对应ipk	
 > * [原理：pppoe服务器拦截账号法](https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md) 
