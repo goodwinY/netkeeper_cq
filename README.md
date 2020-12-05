@@ -135,5 +135,5 @@
 	做到什么地步？ 
 	叠加到自闭。达到水桶效应、 网号上限 、多播上限
 	
-作者 [@goodwin](https://qm.qq.com/cgi-bin/qm/qr?k=CkOkAr8EULrKeCTefV3sK9xhz8lL8QHK&noverify=0)    
+[点击链接加我为QQ好友](https://qm.qq.com/cgi-bin/qm/qr?k=CkOkAr8EULrKeCTefV3sK9xhz8lL8QHK&noverify=0)    
 2020 年 12月 05日 
