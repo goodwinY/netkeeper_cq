@@ -1,4 +1,6 @@
 # netkeeper for k2 k2p or other openwrt 
+点点右上角star支持一下呗！！！
+
 高校 校园网 重庆 创翼 netkeeper PPPOE拦截
 
 破解校园网络实现一个账号通过路由器共享网络
@@ -124,7 +126,7 @@
 	这就是为什么不推荐使用这种方案多播的原因
 参考：https://www.bilibili.com/read/cv7913375/
 
-点点star支持一下呗！！！
+点点右上角star支持一下呗！！！
 
 有机会写写最简单的网页认证破解：
 	要求：一号两机 也就是一手机 一电脑。 
