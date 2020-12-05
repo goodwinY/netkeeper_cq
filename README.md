@@ -1,4 +1,4 @@
-# netkeeper for k2 k2p or other openwrt 
+# 适用于所有的openwrt和PandoraBox，拦截netkeeper真实网号后，再用路由器进行拨号 
 ------
 ## 点点右上角star支持一下呗！！！
 ------
