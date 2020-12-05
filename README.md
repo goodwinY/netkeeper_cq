@@ -142,5 +142,5 @@
 	做到什么地步？ 
 	叠加到自闭。达到水桶效应、 网号上限 、多播上限
 	
-[点击和我聊天](http://wpa.qq.com/msgrd?v=3&uin=1160456110&site=qq&menu=yes)    
+[点击链接加我为QQ好友](https://qm.qq.com/cgi-bin/qm/qr?k=CkOkAr8EULrKeCTefV3sK9xhz8lL8QHK&noverify=0)    
 2020 年 12月 05日 
