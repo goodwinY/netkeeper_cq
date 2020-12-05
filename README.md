@@ -2,4 +2,4 @@
 高校 校园网 重庆 创翼 netkeeper PPPOE拦截
 破解校园网络实现一个账号通过路由器共享网络
 注意：路由器特指装有openwrt的路由器。
-原理：
+原理：https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md
