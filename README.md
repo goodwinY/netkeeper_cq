@@ -39,8 +39,8 @@
 			用户名 root 密码 你自己设置的路由器管理密码
 		2.把netkeeper4-use-pppoer-server文件夹中的3个文件,nk4 nk4.sh nk4conf.sh
 			拖动到root文件夹中(理论上讲，此时root文件夹中没有其他文件，请对照)
-			在路由器root文件夹中同时选中这三个文件nk4 nk4.sh nk4conf.sh 右击->属性
-			在八进制栏修改为 7777
+			在路由器root文件夹中同时选中这三个文件nk4 nk4.sh nk4conf.sh 
+			右击->属性 在八进制栏修改为 7777
 			确定
 		3.把存放固件文件夹中的2个文件rp-pppoe-common**********.ipk
 			和rp-pppoe-server**********.ipk
