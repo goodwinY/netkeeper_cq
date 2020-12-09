@@ -36,6 +36,12 @@
 			加密方式选择 WPA2-PSK 算法选择AES
 		4.选择设置你需要的功能：硬件加速等等
 		5.同步时间：包括电脑和路由器的时间都要设置为标准的北京时间 系统->系统 同步时间
+![管理密码和SSH](./photo/管理密码和SSH.png)
+![无线](./photo/无线.png)
+![WiFi名](./photo/WiFi.png)
+![WiFi密码](./photo/WiFi密码.png)
+![时间同步](./photo/时间同步.png)
+![网络加速](./photo/网络加速.png)
 ### 二 进入正题：
 		1.进入文件夹 WinSCP 打开 WinSCP.exe 
 			文件协议SCP 地址填 192.168.1.1 
@@ -99,6 +105,8 @@
 			luci-app-mwan3helper
 			luci-i18n-mwan3helper-zh-cn
 		4.安装完毕后，网络 会出现虚拟WAN和负载均衡 我们要的就是虚拟WAN
+![软件源](./photo/软件源.png)
+![多播](./photo/多播.png)
 		
 ### 五 多播关键操作：
 		1.确保以上插件安装完毕后 拔出WAN口网线
