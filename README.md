@@ -48,7 +48,7 @@
 			用户名 root 密码 你自己设置的路由器管理密码
 			文件框的右边才是你路由器的文件夹！！！
 
-![winscp登陆(./photo/winscp登陆.png)
+![winscp登陆](./photo/winscp登陆.png)
 ![winscp安全警告](./photo/winscp安全警告.png)
 
 		2.把netkeeper4-use-pppoer-server文件夹中的3个文件,nk4 nk4.sh nk4conf.sh
