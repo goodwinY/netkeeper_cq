@@ -42,6 +42,7 @@
 ![WiFi密码](./photo/WiFi密码.png)
 ![时间同步](./photo/时间同步.png)
 ![网络加速](./photo/网络加速.png)
+![硬件加速](./photo/硬件加速.png)
 ### 二 进入正题：
 		1.进入文件夹 WinSCP 打开 WinSCP.exe 
 			文件协议SCP 地址填 192.168.1.1 
