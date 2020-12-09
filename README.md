@@ -8,7 +8,8 @@
 > * 本文所展示的操作适用于所有的openwrt和PandoraBox，拦截netkeeper真实网号后，再用路由器进行拨号
 > * 非本文所使用的固件请自行下载对应ipk	
 > * [原理：pppoe服务器拦截账号法](https://github.com/miao1007/Openwrt-NetKeeper/blob/master/netkeeper4-use-pppoer-server/README.md) 
-
+> * 先下载
+![下载](./photo/下载.png)
 `注意：路由器特指装有openwrt或潘多拉的路由器。`	
 `请将所有文件下载，解压到同一文件夹中`  
 ### 零 刷写固件：	
