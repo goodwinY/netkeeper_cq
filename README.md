@@ -57,6 +57,7 @@
 			右击->属性 在八进制栏修改为 7777
 			确定
 ![权限修改](./photo/权限修改.png)
+
 		3.把存放固件文件夹中的2个文件rp-pppoe-common**********.ipk
 			和rp-pppoe-server**********.ipk
 			(这两个文件一定要对应选取，比如K2的一定要选择K2的)拖动到tmp文件夹中
@@ -115,6 +116,7 @@
 			luci-app-mwan3helper
 			luci-i18n-mwan3helper-zh-cn
 		4.安装完毕后，网络 会出现虚拟WAN和负载均衡 我们要的就是虚拟WAN
+		
 ![软件源](./photo/软件源.png)
 ![多播](./photo/多播.png)
 		
