@@ -46,17 +46,23 @@
 		1.进入文件夹 WinSCP 打开 WinSCP.exe 
 			文件协议SCP 地址填 192.168.1.1 
 			用户名 root 密码 你自己设置的路由器管理密码
+			文件框的右边才是你路由器的文件夹！！！
+![winscp登陆(./photo/winscp登陆.png)
+![winscp安全警告](./photo/winscp安全警告.png)
 		2.把netkeeper4-use-pppoer-server文件夹中的3个文件,nk4 nk4.sh nk4conf.sh
 			拖动到root文件夹中(理论上讲，此时root文件夹中没有其他文件，请对照)
 			在路由器root文件夹中同时选中这三个文件nk4 nk4.sh nk4conf.sh 
 			右击->属性 在八进制栏修改为 7777
 			确定
+![权限修改](./photo/权限修改.png)
 		3.把存放固件文件夹中的2个文件rp-pppoe-common**********.ipk
 			和rp-pppoe-server**********.ipk
 			(这两个文件一定要对应选取，比如K2的一定要选择K2的)拖动到tmp文件夹中
 			(tmp文件夹中有许多文件)
 		4.进入解压文件夹putty->打开putty.exe->地址192.168.1.1->确定
 			输入用户名root 密码(不可见)
+![putty](./photo/putty.png)
+![putty安全警告](./photo/putty安全警告.png)
 		5.安装拦截软件->依次运行以下代码:
 			cd /tmp
 			opkg install rp-common***.ipk
