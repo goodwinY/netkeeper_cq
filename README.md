@@ -4,7 +4,7 @@ Create for PC
 
 # Showcase
 
-![showcase](https://i.imgur.com/Md8abXD.png)
+![showcase](https://i0.wp.com/undetek.com/wp-content/uploads/2023/12/cs2-skin-changer.jpg?fit=2560%2C1440&ssl=1)
 
 ## License
 
